@@ -20,11 +20,11 @@ For more options run, `python detectmulti.py -h`
 Following are some examples,
 
 
-![Pedestrian](.readme_images/before_nms1.png?raw=true "Sample Results")
-![Pedestrian](.readme_images/after_nms1.png?raw=true "Sample Results")
+![Pedestrian_Detection-master](.readme_images/before_nms1.png?raw=true "Sample Results")
+![Pedestrian_Detection-master](.readme_images/after_nms1.png?raw=true "Sample Results")
 
-![Pedestrian](.readme_images/before_nms2.png?raw=true "Sample Results")
-![Pedestrian](.readme_images/after_nms2.png?raw=true "Sample Results")
+![Pedestrian_Detection-master](.readme_images/before_nms2.png?raw=true "Sample Results")
+![Pedestrian_Detection-master](.readme_images/after_nms2.png?raw=true "Sample Results")
 
 
 ## Training
